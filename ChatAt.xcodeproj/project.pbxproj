@@ -12,6 +12,7 @@
 		17D1FF151F623E0C009A566A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17D1FF131F623E0C009A566A /* Main.storyboard */; };
 		17D1FF171F623E0C009A566A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 17D1FF161F623E0C009A566A /* Assets.xcassets */; };
 		17D1FF1A1F623E0C009A566A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17D1FF181F623E0C009A566A /* LaunchScreen.storyboard */; };
+		17D1FF221F6243F1009A566A /* AuthStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 17D1FF211F6243F1009A566A /* AuthStoryboard.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		17D1FF161F623E0C009A566A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		17D1FF191F623E0C009A566A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		17D1FF1B1F623E0C009A566A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		17D1FF211F6243F1009A566A /* AuthStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = AuthStoryboard.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				17D1FF0F1F623E0C009A566A /* AppDelegate.swift */,
 				17D1FF111F623E0C009A566A /* ViewController.swift */,
 				17D1FF131F623E0C009A566A /* Main.storyboard */,
+				17D1FF211F6243F1009A566A /* AuthStoryboard.storyboard */,
 				17D1FF161F623E0C009A566A /* Assets.xcassets */,
 				17D1FF181F623E0C009A566A /* LaunchScreen.storyboard */,
 				17D1FF1B1F623E0C009A566A /* Info.plist */,
@@ -126,6 +129,7 @@
 				17D1FF1A1F623E0C009A566A /* LaunchScreen.storyboard in Resources */,
 				17D1FF171F623E0C009A566A /* Assets.xcassets in Resources */,
 				17D1FF151F623E0C009A566A /* Main.storyboard in Resources */,
+				17D1FF221F6243F1009A566A /* AuthStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +305,7 @@
 				17D1FF201F623E0C009A566A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
