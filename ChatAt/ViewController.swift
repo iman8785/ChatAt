@@ -15,6 +15,13 @@ class ViewController: UIViewController {
      
          loadChat()
         // Do any additional setup after loading the view, typically from a nib.
+   loadchatroomdetails()
+    }
+    
+    func loadchatroomdetails(){
+    
+    print("load chat room details")
+    
     }
         func loadChat(){
         
